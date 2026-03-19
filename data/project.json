@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "brodersofia-stack",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269559090?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "brodersofia-stack",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-03-19T21:28:52.066Z",
-    "updated_at": "2026-03-19T21:28:52.066Z"
-  }
+    "updated_at": "2026-03-19T21:28:52.066Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "1150ef09-65dc-44bd-a7b6-c8822105874c": {
+      "content": [],
+      "created_at": "2026-03-19T21:28:52.106Z",
+      "created_by": "brodersofia-stack",
+      "title": "Juicio a las Juntas",
+      "updated_at": "2026-03-19T21:28:52.106Z",
+      "updated_by": "brodersofia-stack",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "1150ef09-65dc-44bd-a7b6-c8822105874c"
+  ]
 }
